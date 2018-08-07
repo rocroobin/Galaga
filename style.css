@@ -2,7 +2,7 @@ body {
     background-image: url(images/space.jpg);
     overflow: hidden;
 }
-.stars {
+.star {
     opacity: 1;
     position: absolute;
     width: 3px;
