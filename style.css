@@ -1,4 +1,17 @@
 body {
     background-image: url(images/space.jpg);
-      overflow: hidden;
+    overflow: hidden;
+}
+.star {
+    opacity: 1;
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    background-color: #fff;
+}
+.control {
+    position: absolute;
+    font-size:20px;
+    color: #fff;
+    background-color: black;
 }
